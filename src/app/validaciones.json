@@ -1,0 +1,54 @@
+{
+    "data": [
+        {
+            "name": "gustamas11",
+            "value": [2,3],
+            "valor": 0
+        },
+        {
+            "name": "gustamenos11",
+            "value": [1],
+            "valor": 0
+        },
+        {
+            "name": "gustamas12",
+            "value": [-1],
+            "valor": 0
+        },
+        {
+            "name": "gustamenos12",
+            "value": [-1],
+            "valor": 0
+        },
+        {
+            "name": "gustamas13",
+            "value": [3],
+            "valor": 0
+        },
+        {
+            "name": "gustamenos13",
+            "value": [1,2],
+            "valor": 0
+        },
+        {
+            "name": "gustamas14",
+            "value": [-1],
+            "valor": 0
+        },
+        {
+            "name": "gustamenos14",
+            "value": [-1],
+            "valor": 0
+        },
+        {
+            "name": "gustamas15",
+            "value": [3],
+            "valor": 0
+        },
+        {
+            "name": "gustamenos15",
+            "value": [1,2],
+            "valor": 0
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+
+
+  
+  @font-face {
+    font-family: "myFont";
+    src: url("myFont.woff");
+   
+  }
+.color{
+    color: #3f51b5;
+}
+#operation{
+    font-size: 18px;
+    color: #3f51b5;
+}
+main {
+    
+    font-style: italic;
+    font-family: cursive;
+    width: 100%;
+    margin-top: 2rem;
+    text-align: left;
+}
+h2 {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+mat-card {
+    cursor: pointer;
+    background-color: #feffb9ea;
+    text-align: left;
+    border-style: groove;
+    margin: auto;
+    width: 35;
+    display: block;
+    
+}
+
+h1 {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 45px; text-decoration: underline;
+}
+
+.imglogo{
+    width: 250px;
+    position:relative;
+}
+
+.escudo {
+    
+    position: absolute;
+    left: 20px;
+    top: 150px;
+}
+
+.escudo2 {
+    
+    position: absolute;
+    right: 20px;
+    top: 150px;
+}
